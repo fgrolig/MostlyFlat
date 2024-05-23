@@ -132,7 +132,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 135995096}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Rabbit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -943,6 +943,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: rabbit
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c44e86291936d45eca7e26c3a51dffbd,
+        type: 3}
+      propertyPath: m_Layer
+      value: 6
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -966,7 +971,7 @@ GameObject:
   - component: {fileID: 1617763186}
   - component: {fileID: 1617763185}
   - component: {fileID: 1617763184}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LitCube (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1177,7 +1182,7 @@ GameObject:
   - component: {fileID: 1877091434}
   - component: {fileID: 1877091433}
   - component: {fileID: 1877091432}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: LitCube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
